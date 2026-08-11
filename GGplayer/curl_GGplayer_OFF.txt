@@ -1,0 +1,225 @@
+curl_GGplayer_OFF
+
+Microsoft Windows [Version 10.0.19044.7417]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\work>curl https://goodgame.ru/player?178163#autoplay
+<html>
+<head>
+    <meta charset='utf-8'>
+    <script src="https://candy.systems:8005/s/lib.js"
+            data-key="js.wlnsthsmcma985m3j4si9l.bq4qnhufwykx4e4l5zntwq"
+            data-init-only="true"
+            defer></script>
+    <script>window.jitsu = window.jitsu || (function(){(window.jitsuQ = window.jitsuQ || []).push(arguments);})</script>
+    <script src="/js/libraries/jquery-1.7.1.min.js?rnd=qweqwe"></script>
+    <script src="/js/libraries/swfobject.js?q6tg7m"></script>
+
+<!--    <script src="https://cdn.jsdelivr.net/hls.js/latest/hls.min.js"></script>-->
+<!--    <script src="https://storage2.goodgame.ru/js/test/candy2.min.js?v=1.13"></script>-->
+
+    <script src="/js/libraries/hls.js-1.3.4/hls.min.js?v=0.1"></script>
+    <script src="/js/__isCandy.js?v=0.4"></script>
+
+    <script>
+      window.DEV = window.location.hostname.includes('localhost');
+
+      // -- TEMP CANDY DEBUG --
+        window.__$c = {
+            instances: [],
+            myid: function() {
+                return (window.Candy && window.Candy.getStat() && window.Candy.getStat().myid) || '';
+            },
+            error: function(source, e, eventName = 'js_error') {
+            },
+        };
+        window.__$c.track = function(eventName, data, instance) {
+        };
+
+        try {
+            const origIsCandy = window.__isCandy;
+            window.__isCandy = function(src, quality, apiData) {
+                var result = origIsCandy.call(this, src, quality, apiData);
+                window.__isCandy = origIsCandy;
+                return result;
+            };
+        }
+        catch(e) {
+          console.error(e);
+        }
+
+        // -- TEMP CANDY DEBUG --
+    </script>
+
+<!--    <script type="text/javascript" src="/js/libraries/addhtml.js?ver=14" charset="UTF-8"></script>-->
+    <script type="text/javascript" src="/js/ggplayer.standalone.umd.js" charset="UTF-8"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+    <style>
+        #_video {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+        }
+        #_poster {
+            position: absolute;
+            max-width: 100%;
+            max-height: 100%;
+            height: auto;
+        }
+        #_video, #_poster {
+            transition:opacity 1s ease;
+        }
+        #_video.on, #_poster.on {
+            opacity: 1;
+        }
+        #_video.off, #_poster.off {
+            opacity: 0;
+        }
+
+        body {
+            overflow: hidden;
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+
+        #debugConsole {
+            width: 98%;
+        }
+    </style>
+</head>
+
+<body>
+<div id="player" style="width:100%;height:100%;position:relative;"></div>
+
+<script>
+    document.body.addEventListener('touchmove', function(event) { event.preventDefault(); }, false);
+
+    var src = window.location.search.substring(1) || 'test';
+
+    function fetchApiData(options) {
+        var apiUrl = options.apiUrl;
+        var streamKey = options.streamKey;
+
+        return fetch(apiUrl + '?src=' + encodeURIComponent(streamKey), {
+            method: 'GET'
+        }).then(function(response) {
+            if (!response.ok) {
+                throw new Error('API request failed with status ' + response.status);
+            }
+
+            return response.json();
+        });
+    }
+
+    function initPlayer() {
+        var config = {
+            container: document.getElementById('player'),
+            playlist:  'http://hls.goodgame.ru/dash/' + src + '/index.mpd',
+            poster:    'http://hls.goodgame.ru/previews/' + src + '.jpg',
+            autoplay:  true,
+            quality:   "540",
+            streamKey: src,
+        };
+
+        fetchApiData({
+                apiUrl: '/api/player',
+                streamKey: config.streamKey
+            }).catch(function(e) {
+                console.warn('PlayerInWindowAdapter API fetch failed:', e);
+                return null;
+            }).then(function(apiData) {
+            if (apiData) {
+                config.apiData = apiData;
+            }
+            new GGPlayer2InWindowAdapter(config);
+        });
+
+    };
+
+    initPlayer();
+
+
+    function loadcssfile(filename){
+        var fileref=document.createElement("link");
+        fileref.setAttribute("rel", "stylesheet");
+        fileref.setAttribute("type", "text/css");
+        fileref.setAttribute("href", filename);
+        document.getElementsByTagName("head")[0].appendChild(fileref);
+    }
+
+    if(document.location.href.indexOf('gg.dev')==-1) {
+        loadcssfile('https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,300,800&subset=latin,cyrillic-ext');
+    }
+
+    //Wrappers:
+    window.BuyPremiumPopup = function() {
+        var _onSuccessCB = function() {};
+        var _onStartTestCB = function() {};
+        var wnd, popup, _channelName, _oldKey;
+
+        var _onLoad = function() {
+            popup = wnd.BuyPremiumPopup();
+            popup.onSuccess(_onSuccessCB);
+            popup.onStartTest(_onStartTestCB);
+            popup.onClose(_onClose);
+            popup.popup(_channelName, _oldKey);
+        };
+
+        var _onClose = function() { wnd.close(); };
+
+        this.onSuccess = function(cb) { _onSuccessCB = cb; };
+        this.onStartTest = function(cb) { _onStartTestCB = cb; };
+
+        this.popup = function(channelName, oldKey) {
+            _channelName = channelName;
+            _oldKey = oldKey;
+
+            wnd = window.open('/payment/buypremium/');
+            wnd.addEventListener('load', _onLoad, false);
+        };
+    };
+
+    window.donatPopup = function() {
+        var wnd, popup, _channelId;
+
+        var _onLoad = function() {
+            popup = wnd.donatPopup();
+            popup.onClose(_onClose);
+            popup.popup(_channelId);
+        };
+
+        var _onClose = function() { wnd.close(); };
+
+        this.popup = function(channelId) {
+            _channelId = channelId;
+
+            wnd = window.open('/payment/buypremium/');
+            wnd.addEventListener('load', _onLoad, false);
+        };
+    }
+
+</script>
+
+<!-- Rating@Mail.ru counter -->
+<script type="text/javascript">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "3749895", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "topmailru-code");
+</script><noscript><div style="position:absolute;left:-10000px;">
+    <img src="//top-fwz1.mail.ru/counter?id=3749895;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+<div id="top100_widget" style="visibility: hidden"></div>
+</body>
+</html>
+
+C:\Users\work>
