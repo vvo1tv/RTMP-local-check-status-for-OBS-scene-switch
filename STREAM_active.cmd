@@ -1,0 +1,11 @@
+::CD %~dp0
+::pause
+:1 
+curl -s https://goodgame.ru/vintalin > temp.txt
+::pause
+findstr "https://goodgame.ru/images/ico_tv.png" temp.txt && start "STREAM_idle" STREAM_idle.cmd && exit
+timeout /t 10
+goto 1
+
+:: 1: curl -s "URL_САЙТА" | findstr /i "active" || start "RTMP_idle" & exit
+:: %~dp0 - полный путь до bat-файла

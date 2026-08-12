@@ -1,0 +1,13 @@
+curl https://goodgame.ru/vintalin
+
+GGplayer\curl_GGplayer_OFF.txt
+<meta property="og:image" content="https://goodgame.ru/images/ico_tv.png"/><meta property="og:image:secure_url" content="https://goodgame.ru/images/ico_tv.png"/>
+
+GGplayer\curl_GGplayer_ON.txt
+<meta property="og:image" content="https://hls.goodgame.ru/previews/178163_240.jpg"/><meta property="og:image:secure_url" content="https://hls.goodgame.ru/previews/178163_240.jpg"/>
+
+
+C:\Users\work>curl -s https://goodgame.ru/vintalin | findstr /i "https://goodgame.ru/images/ico_tv.png"
+FINDSTR: Line 1 is too long.
+
+curl -s https://goodgame.ru/vintalin > temp.txt & findstr "https://goodgame.ru/images/ico_tv.png" temp.txt

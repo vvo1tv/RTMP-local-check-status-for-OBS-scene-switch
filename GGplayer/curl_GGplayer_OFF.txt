@@ -1,225 +1,24 @@
-curl_GGplayer_OFF
-
 Microsoft Windows [Version 10.0.19044.7417]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\work>curl https://goodgame.ru/player?178163#autoplay
-<html>
-<head>
-    <meta charset='utf-8'>
-    <script src="https://candy.systems:8005/s/lib.js"
-            data-key="js.wlnsthsmcma985m3j4si9l.bq4qnhufwykx4e4l5zntwq"
-            data-init-only="true"
-            defer></script>
-    <script>window.jitsu = window.jitsu || (function(){(window.jitsuQ = window.jitsuQ || []).push(arguments);})</script>
-    <script src="/js/libraries/jquery-1.7.1.min.js?rnd=qweqwe"></script>
-    <script src="/js/libraries/swfobject.js?q6tg7m"></script>
+C:\Users\work>curl https://goodgame.ru/vintalin
+<!DOCTYPE html><html prefix="og: http://ogp.me/ns# video: http://ogp.me/ns/video#"><head><meta charset="UTF-8"><title ng-non-bindable>vintalin</title><meta http-equiv="Content-Language" content="ru"><meta name="apple-itunes-app" content="app-id=1358677755"><meta name='yandex-verification' content='7750c09b84abf8ec'/><meta name="yandex-verification" content="f1a37ba68b4d6a25"/><meta name="yandex-verification" content="77925719e7938242"/><meta name="google-site-verification" content="Ma35Pkcgxc2Z3wC55q-uImyPBY3AXmiFktOsl07p-9A"/><meta name="google-site-verification" content="Jtxzf639_evRc8Trf33NzOPLPfVp4IuiC3EY2NwofNY"/><meta name="description" http-equiv="description" content="Смотрите прямую трансляцию на канале vintalin по Другое"><meta name="keywords" http-equiv="keywords" content=", стрим, канал, онлайн, трансляция"><base href="/"><meta property="og:site_name" content="GoodGame.ru"/><meta property="og:type" content="ya:ovs:broadcast"/><meta property="ya:ovs:status" content="published"/><meta property="og:url" content="https://goodgame.ru/vintalin"/><meta property="og:description" content="Смотрите прямую трансляцию на канале vintalin по Другое"/><meta property="ya:ovs:adult" content="true"/><meta property="og:title" content="intelligent chillout"/><meta property="og:image" content="https://goodgame.ru/images/ico_tv.png"/><meta property="og:image:secure_url" content="https://goodgame.ru/images/ico_tv.png"/><meta property="og:image:type" content="image/jpeg"/><meta property="og:image:alt" content="Стрим vintalin"/><meta property="og:image:width" content="480"/><meta property="og:image:height" content="270"/><meta property="og:video" content="https://goodgame.ru/player?178163"/><meta property="video:duration" content="live"/><meta property="og:video:duration" content="live"/><meta property="og:video:type" content="mp4"/><meta property="og:video:iframe" content="https://goodgame.ru/player?178163"/><meta property="ya:ovs:upload_date" content="2026:08:11 03:04:29"/><meta property="ya:ovs:start_date" content="2026-08-11 03:04:29"/><meta property="ya:ovs:views_total" content="209"/><meta property="ya:ovs:languages" content="ru"/><meta property="og:video:width" content="1980"/><meta property="og:video:height" content="1080"/><meta property="ya:ovs:quality" content="full HD"/><meta property="og:site_name" content="GoodGame.ru"/> <meta http-equiv="x-dns-prefetch-control" content="off"><link rel="dns-prefetch" href="//storage.goodgame.ru"><link rel="dns-prefetch" href="//static.goodgame.ru"><link rel="dns-prefetch" href="//chat.goodgame.ru"><link rel="preconnect" href="//hls.goodgame.ru"><link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png"><link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png"><link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png"><link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/apple-icon-76x76.png"><link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-icon-114x114.png"><link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/apple-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png"><link rel="icon" type="image/png" sizes="192x192" href="/images/favicon/android-icon-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png"><link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png"><link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png"><script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script><script type="application/ld+json"> { "@context": "https://schema.org", "@type": "Organization", "name": "GoodGame.ru", "url": "https://goodgame.ru", "logo": "https://static.goodgame.ru/images/favicon/apple-icon-180x180.png", "description": "Киберспортивная стриминговая платформа", "email": "support@goodgame.ru", "sameAs": [ "https://t.me/GoodGame_Ru", "https://vk.com/goodgameru" ] } </script><script type="application/ld+json"> { "@context": "https://schema.org", "@type": "WebSite", "name": "GoodGame", "url": "https://goodgame.ru", "potentialAction": { "@type": "SearchAction", "target": { "@type": "EntryPoint", "urlTemplate": "https://goodgame.ru/search?query={search_term_string}" }, "query-input": "required name=search_term_string" } } </script><script> var UserObj ={"placeholder":true,"premium":true}; </script><link rel="stylesheet" type="text/css" href="https://static.goodgame.ru/css/compiled/style-new.css?y023td"/><link rel="stylesheet" type="text/css" href="https://static.goodgame.ru/css/compiled/fonts.css?y023t2"/><script type="text/javascript" src="https://static.goodgame.ru/js/libraries/jquery-3.6.4.min.js"></script><script> var AJAX_PATH = '/ajax';var WEB = 'https://goodgame.ru/';var CHAT = 'chat-1.goodgame.ru';var WS_SCHEMA = 'wss';var DEV = 0;var DEV_PLAYER = 0;var DEV_PLAYER_JITSU = 0;var DEV_FEED = 0;var DEV_OAUTH = 0;var YANDEX_CAPTCHA_CLIENT = "ysc1_ABcLk4JpbsEJ1k8P8JezbCXdtThRmd6auDLZFfnL547e4a3c";var DEV_CHAT = 0;var DEV_TELEPORT = 0;var DEV_EVENTS = 0;var DEV_HLS = 0;var GGObj = ''; window.timeLag = Date.now() - 1786467074000; window.ggLog = (data) => { const getCircularReplacer = () => { const seen = new WeakSet(); return (key, value) => { if (typeof value === "object" && value !== null) { if (seen.has(value)) { return "[Circular]"; } seen.add(value); } return value; }; }; return fetch('/api/4/log/error', { headers: { 'Accept':'application/json', 'Content-Type':'application/json', }, method: "POST", body: JSON.stringify({ data: data, loc: window.location.href, }, getCircularReplacer()), }); }; window.onerror = function (message, file, line, col, error) { window.ggLog({ message, file, error, }); return false; }; </script>  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/><meta name="apple-touch-fullscreen" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="apple-mobile-web-app-capable" content="yes"><link rel="stylesheet" type="text/css" href="/css/compiled/mobile.css?ver=1"/><link rel="apple-touch-startup-image" href="/files/lokki7/m/17-06-05_12-37-02.png"> <link rel="canonical" href="https://goodgame.ru/vintalin"/> </head><body class="no-ads old-site" data-testid="main-body" ng-class="{ hidden: $root.hideFeed, visible: !$root.hideFeed, 'theatre': $root.theatre, 'no-ads': !$root.Reklama.hasAdvert() || $root.Reklama.noBrand}" ><script> if (!UserObj.id || localStorage.getItem('hideFeed') == 1) document.querySelector('body').classList.add('hidden'); </script><div class="outer-wrap"><div class="global-loader"><div class="left"></div><div class="right"></div></div><header ng-class="{wide: !$root.User.logged() && $root.hideFeed}"><script>if (!UserObj.id) document.querySelector('header').classList.add('wide');</script><div class="wrap clearfix" id="top"><div class="header__left-wrapper"><a class="logo" href="/"><img src="/images/svg/new-logo.svg" width="43" height="19" alt=""></a><div class="menu-block" ng-click="$root.menuToggle = !$root.menuToggle" ng-class="{'show': $root.menuToggle}" gg-click-outside="$root.menuToggle = false" ><span class="icon icon-menu-20px"></span><div class="menu-links-wrap"><ul class="menu-links"><div class="menu-links__content main-menu-links"><li class="mobile-plus"><a href="/plus"><span class="icon icon-month-18px"></span>Плюс</a></li><li><a href="/streams/">Стримы</a></li><li><a href="/cups">Турниры</a></li> <li><a href="/clips/">Клипы</a></li><li><a href="/forum">Форум</a></li><li><a href="/help">Помощь</a></li><li class="mobile-landing" ng-if="!$root.User.channel"><a href="/landingforstreamers" target="_blank"><span class="icon icon-Camera-24px"></span>Стримеру </a></li> <!--<li><a href="/search">Поиск</a></li>--></div></ul><div class="more-block"><img class="dots-icon" src="/images/svg/Dots24px.svg" alt="Dots" ng-click="$root.moreMenu = !$root.moreMenu"><ul class="menu-links dots-menu-links"><li><a href="/streams/">Стримы</a></li><li><a href="/cups/">Турниры</a></li><li><a href="/clips/">Клипы</a></li><li><a href="/forum">Форум</a></li><li><a href="/help">Помощь</a></li></ul></div></div></div><div class="search-block ov"><div class="js-header-search"><img class="icon icon-search" src="/images/svg/Search24px.svg" alt="Search"></div></div></div><div class="header__right-wrapper"><div class="user-wrap streamer-wrapper__landing" ng-if="!$root.User.channel"><a href="/landingforstreamers" target="_blank" class="streamer-landing"><span class="icon icon-Camera-24px"></span>Стримеру</a></div><div class="user-wrap apps-wrapper"><div class="apps"><span class="icon icon-Phone-24px"></span>Прил. </div><div class="apps-block"><div class="apps-element__wrapper"><div class="apps-element"><a href="https://goodgame.ru/a/googleplay" target="_blank"><img src="/images/PlayMarket.svg" alt="PlayMarket"></a><div class="qr"><img src="/images/GooglePlayQR.svg" alt="PlayMarket"></div></div><div class="apps-element"><a href="https://goodgame.ru/a/appstore" target="_blank"><img src="/images/AppStore.svg" alt="AppStore"></a><div class="qr"><img src="/images/AppStoreQR.svg" alt="AppStore"></div></div><div class="apps-element"><a href="https://goodgame.ru/a/apk" target="_blank"><img src="/images/DirectDownload.svg" alt="DirectDownload"></a><div class="qr"><img src="/images/ApkQR.svg" alt="DirectDownload"></div></div><div class="apps-element"><a href="https://goodgame.ru/a/huawei" target="_blank"><img src="/images/AppGallery.svg" alt="AppGallery"></a><div class="qr"><img src="/images/HuaweiQR.svg" alt="AppGallery"></div></div><div class="apps-element"><a href="https://www.rustore.ru/catalog/app/ru.goodgame.goodgame2" target="_blank"><img src="/images/RuStore.svg" alt="RuStore"></a><div class="qr"><img src="/images/RuStoreQr.png" alt="RuStore"></div></div></div></div></div><gg4-plus-btn-main-page></gg4-plus-btn-main-page><div class="user-wrap ng-cloak" ng-include="'/html/header-profile.html'"></div></div></div></header><div class="wrapper clearfix" id="branging-bg"><div class="adv-block" id="adfox_155180713667936946"><!--<a class="adv-link" href="#advertise" target="_blank"></a> --></div><section class="main-block clearfix"><div class="feed-block-switcher" ng-click="$root.hideFeed = false" ng-if="$root.User.logged() || $root.feed.currentTab=='stream'"><span class="icon icon-arrow-left"></span></div><gg-main-scroll><div class="tse-scrollable scroller" gg-scrollable-light> <noindex><div class="banner-block head"><a class="banner-link" target="_blank"></a><gg-gg-plus-btn ng-if="$root.User.logged()" advlink="1"></gg-gg-plus-btn></div></noindex><div class="main-inner-wrap ui-front"><noindex><div style="overflow: hidden"><a class="aside-link left-block" target="_blank"></a><a class="aside-link right-block" target="_blank"></a></div></noindex><div id="entire-wrapper"><div id="entire" gg-content> <script> var ChannelPreload = { api:{"channel_id":178163,"channel_key":"vintalin","channel_title":"intelligent chillout","broadcast_title":null,"channel_status":"offline","channel_poster":"https:\/\/goodgame.ru\/images\/stream-offline.png","channel_premium":false,"streamer_id":1359639,"streamer_name":"vintalin","streamer_avatar":"https:\/\/goodgame.ru\/files\/avatars\/av_avatar_sint.png","premium_only":false,"adult":1,"hidden":0,"channel_start":1786406669,"viewers":0,"ga_code":"","watch_together":false,"watchTogether":false,"game_id":34,"game":{"id":34,"title":"\u0414\u0440\u0443\u0433\u043e\u0435","url":"others","poster":"https:\/\/goodgame.ru\/images\/posters\/games\/gm_others_poster.png","group_type":"game"},"broadcast":[],"sources":{"source":"https:\/\/hls.goodgame.ru\/hls\/178163.m3u8?expires=1786553474&token=G5k4OT0roN3sGOnGkxHU0A","smil":"https:\/\/hls.goodgame.ru\/manifest\/178163_master.m3u8?expires=1786553474&token=G5k4OT0roN3sGOnGkxHU0A","master":"https:\/\/hls.goodgame.ru\/manifest\/178163_master.m3u8?expires=1786553474&token=G5k4OT0roN3sGOnGkxHU0A"},"user":{}}, channel:{"id":178163,"title":"intelligent chillout","link":"https:\/\/goodgame.ru\/vintalin","links":{"stream":"https:\/\/goodgame.ru\/vintalin","dashboard":"https:\/\/goodgame.ru\/vintalin\/dashboard","premium":"https:\/\/goodgame.ru\/vintalin\/premium","support":"https:\/\/goodgame.ru\/vintalin\/support","chat":"https:\/\/goodgame.ru\/vintalin\/chat","tasks":"https:\/\/goodgame.ru\/vintalin\/jobs","featured":"https:\/\/goodgame.ru\/vintalin\/featured","clips":"https:\/\/goodgame.ru\/vintalin\/clips","embed":"https:\/\/goodgame.ru\/vintalin\/embed","lastEvents":"https:\/\/goodgame.ru\/vintalin\/last-events","lastEventsRel":"\/vintalin\/last-events"},"streamer":{"id":1359639,"obj_key":"9:1359639","nickname":"vintalin","username":"vintalin","avatar":"\/files\/avatars\/av_avatar_sint.png","background":"\/images\/profile\/smile_pattern.png","sex":0},"avatar":"\/files\/avatars\/av_avatar_sint.png","hidden":0,"game":"\u0414\u0440\u0443\u0433\u043e\u0435","viewers":1,"preview":"\/images\/ico_tv.png","poster":"\/images\/ico_tv.png","premium":0,"isFullPremium":false,"streamkey":"178163","channelkey":"vintalin","status":false,"favorite":null,"sources":{"source":"https:\/\/hls.goodgame.ru\/hls\/178163.m3u8?expires=1786553474&token=G5k4OT0roN3sGOnGkxHU0A","smil":"https:\/\/hls.goodgame.ru\/manifest\/178163_master.m3u8?expires=1786553474&token=G5k4OT0roN3sGOnGkxHU0A","master":"https:\/\/hls.goodgame.ru\/manifest\/178163_master.m3u8?expires=1786553474&token=G5k4OT0roN3sGOnGkxHU0A"},"watchTogether":false,"streamPreview":"https:\/\/hls.goodgame.ru\/previews\/178163.jpg","obj_key":"7:178163","gameUrl":"\/games\/others","online":0,"broadcast":null,"broadcastBlock":null,"hosting":false,"last_online_int":1786406771,"last_online":"1786406771","stream_title":"intelligent chillout","cqty":3,"watch_together":false,"jobs":{"enabled":true,"minimumAmount":100,"maxActiveJobsPerUser":5,"filter":"2","colorSkin":0,"backgroundImage":""},"helpers":[1134212],"premiums":0,"followers":9,"allow_comments":1,"players":[{"id":254637,"title":"GoodGame","status":0,"server":1,"online":false}]}, time:1786467074, }; var channelCommonInfo = { streamerId:1359639, channelId:178163, gameTitle:"\u0414\u0440\u0443\u0433\u043e\u0435", gameId:34, streamStarted:1786406669, }; </script><div ui-view><div class="preloaded"> </div><div class="main-view-loading loading"></div></div> </div></div><footer ng-include="'/html/footer.html'"></footer> </div> </div></gg-main-scroll></section></div><div class="feed-block" ng-class="{wide: $root.User.logged()}"><div class="resizer"></div><div class="opener"></div><div class="ghost-block"></div><div><gg-feed-ctrl gg-click-outside="feed.clickOutside()"><div class="tab-panel head-container"><ul class="nav nav-tabs nav-justified"><li class="favorites active"><a class="favorites" href=""><span class="icon icon-Heart-24px"><span class="count"></span></span></a></li><li class="mails"><a class="mails" href=""><span class="icon icon-Letter-24px"><span class="count"></span></span></a></li><li class="newsfeed"><a class="newsfeed" href=""><span class="icon icon-Bell-Full-24px"><span class="count"></span></span></a></li></ul></div><div class="tab-panel content-container"><div class="tab-content"><div class="tab-pane favorites-block active"><div class="tab-pane-inner loaded"><div class="inner-block"></div><div class="streams-wrapper dummy"><div class="title-block"></div><div class="stream-info-wrap"><a href="" class="stream-info-block"><span class="avatar"></span><span class="streamer-block"><span class="streamer pull-left"></span><span class="info-block pull-right"><span class="icon icon-eye"></span><span class="viewers"></span></span><span class="streamer-plays ov"><span class="icon icon-play2"></span><span class="game"></span></span></span><span class="channel-title"></span></a></div><div class="stream-info-wrap"><a href="" class="stream-info-block"><span class="avatar"></span><span class="streamer-block"><span class="streamer pull-left"></span><span class="info-block pull-right"><span class="icon icon-eye"></span><span class="viewers"></span></span><span class="streamer-plays ov"><span class="icon icon-play2"></span><span class="game"></span></span></span><span class="channel-title"></span></a></div><div class="stream-info-wrap"><a href="" class="stream-info-block"><span class="avatar"></span><span class="streamer-block"><span class="streamer pull-left"></span><span class="info-block pull-right"><span class="icon icon-eye"></span><span class="viewers"></span></span><span class="streamer-plays ov"><span class="icon icon-play2"></span><span class="game"></span></span></span><span class="channel-title"></span></a></div></div></div></div></div></div></gg-feed-ctrl></div> </div><a href="" gg-scroll-to-top><span class="icon icon-arrow-right"></span></a></div><modal-window></modal-window> <noindex style="position: absolute; left: -100000px; visibility: hidden"><!-- Yandex.Metrika counter --><script type="text/javascript"> (function (w) { w.ym = w.ym || function () { (w.ym.a = w.ym.a || []).push(arguments); }; })(window); window.addEventListener('load', function() { setTimeout(function() { (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(11385799, "init", { clickmap: true, trackLinks: true, accurateTrackBounce: true, webvisor: Math.random() > 0.8 }); }, 1000); }); </script><noscript><div><img src="https://mc.yandex.ru/watch/11385799" style="position:absolute; left:-9999px;" alt=""/></div></noscript><!-- /Yandex.Metrika counter --><!-- Rating@Mail.ru counter --><script type="text/javascript"> var _tmr = window._tmr || (window._tmr = []); window.addEventListener('load', function () { setTimeout(function () { var _tmr = window._tmr || (window._tmr = []); _tmr.push({id: "3749895", type: "pageView", start: (new Date()).getTime()}); (function (d, w, id) { if (d.getElementById(id)) return; var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id; ts.src = "https://top-fwz1.mail.ru/js/code.js"; var f = function () { var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s); }; f(); })(document, window, "tmr-code"); }, 250) } ); </script><noscript><div style="position:absolute;left:-10000px;"><img src="//top-fwz1.mail.ru/counter?id=3749895;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru"/></div></noscript><!-- //Rating@Mail.ru counter --></noindex> <script>document.querySelector('.outer-wrap') && document.querySelector('.outer-wrap').classList.add('loading');</script><gg-ads-block></gg-ads-block><script src="https://static.goodgame.ru/js/minified/global.js?y0gu41"></script><script defer src="https://static.goodgame.ru/js/minified/selector.js?y0gu44"></script> <script type="text/javascript" src="https://static.goodgame.ru/js/gg4/ru/main.bec8cf0b0adcac0d9847.js"></script><script type="text/javascript" src="https://static.goodgame.ru/js/gg4/ru/polyfills.3e6d630f516ce9253e0c.js"></script><script type="text/javascript" src="https://static.goodgame.ru/js/gg4/ru/runtime.860b4c460ec73d0c0ba0.js"></script><script type="text/javascript" src="https://static.goodgame.ru/js/gg4/ru/vendor.89d8de3f2282ae87088f.js"></script> <script src="https://static.goodgame.ru/js/minified/libraries.js?y023tm" type="text/javascript"></script><script src="https://static.goodgame.ru/js/libraries/ckeditor/ckeditor/ckeditor.js?tuvng8" type="text/javascript"></script><script src="https://static.goodgame.ru/js/minified/all.js?y023tl" type="text/javascript"></script><script> var Chat = new Chat3({ debug: 0, }); Utils.ecid();var ChatCssFn = function () { const props = { 'class':'chat-compiled-smiles-css', }; loadCSS("https://static.goodgame.ru/css/compiled/channels_icons.css?y06o3s", null, null, props); loadCSS("https://static.goodgame.ru/css/compiled/channels_smiles.css?y0gu3y", null, null, props); loadCSS("https://static.goodgame.ru/css/compiled/common_smiles.css?y05i22", null, null, props); }; setTimeout(ChatCssFn, 1000); </script><!-- <script async src="https://static.goodgame.ru/js/libraries/addhtml.js?wjlsi0"></script> --><script src="https://static.goodgame.ru/js/libraries/hls.js-1.6.11/hls.min.js?xg2a9t"></script><script src="https://static.goodgame.ru/js/__isCandy.js?xqxm5r"></script>  <script type="text/javascript" src="/nocache/player-config.js"></script><script type="text/javascript" defer src="https://static.goodgame.ru/js/ggplayer.standalone.umd.js?y025kb"></script> <script type="text/javascript"> setTimeout(function() { var script = document.createElement('script'); script.src = '/api/4/users/init-lazy?url=' + document.location.pathname; document.head.appendChild(script); }) </script> </body></html>
+C:\Users\work>curl -I https://goodgame.ru/vintalin
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 11 Aug 2026 16:52:04 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Access-Control-Allow-Origin: *
+Set-Cookie: geo_country=Russia; expires=Tue, 11-Aug-2026 17:52:05 GMT; Max-Age=3600; path=/; domain=goodgame.ru; secure; HttpOnly; SameSite=None
+Set-Cookie: geo_is_rf=1; expires=Tue, 11-Aug-2026 17:52:05 GMT; Max-Age=3600; path=/; domain=goodgame.ru; secure; HttpOnly; SameSite=None
+Set-Cookie: geo_country_accuracy=0; expires=Tue, 11-Aug-2026 17:52:05 GMT; Max-Age=3600; path=/; domain=goodgame.ru; secure; HttpOnly; SameSite=None
+Set-Cookie: st_com=cc42916f4a705b31569606f546b61750; expires=Fri, 10-Sep-2027 16:52:05 GMT; Max-Age=34128000; path=/; domain=goodgame.ru; secure; HttpOnly; SameSite=None
+Cache-Control: max-age=300
+Expires: Tue, 11 Aug 2026 16:57:05 GMT
+Strict-Transport-Security: max-age=31536000;
+Access-Control-Allow-Headers: content-encoding,DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range,x-compress
 
-<!--    <script src="https://cdn.jsdelivr.net/hls.js/latest/hls.min.js"></script>-->
-<!--    <script src="https://storage2.goodgame.ru/js/test/candy2.min.js?v=1.13"></script>-->
-
-    <script src="/js/libraries/hls.js-1.3.4/hls.min.js?v=0.1"></script>
-    <script src="/js/__isCandy.js?v=0.4"></script>
-
-    <script>
-      window.DEV = window.location.hostname.includes('localhost');
-
-      // -- TEMP CANDY DEBUG --
-        window.__$c = {
-            instances: [],
-            myid: function() {
-                return (window.Candy && window.Candy.getStat() && window.Candy.getStat().myid) || '';
-            },
-            error: function(source, e, eventName = 'js_error') {
-            },
-        };
-        window.__$c.track = function(eventName, data, instance) {
-        };
-
-        try {
-            const origIsCandy = window.__isCandy;
-            window.__isCandy = function(src, quality, apiData) {
-                var result = origIsCandy.call(this, src, quality, apiData);
-                window.__isCandy = origIsCandy;
-                return result;
-            };
-        }
-        catch(e) {
-          console.error(e);
-        }
-
-        // -- TEMP CANDY DEBUG --
-    </script>
-
-<!--    <script type="text/javascript" src="/js/libraries/addhtml.js?ver=14" charset="UTF-8"></script>-->
-    <script type="text/javascript" src="/js/ggplayer.standalone.umd.js" charset="UTF-8"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-
-    <style>
-        #_video {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-        }
-        #_poster {
-            position: absolute;
-            max-width: 100%;
-            max-height: 100%;
-            height: auto;
-        }
-        #_video, #_poster {
-            transition:opacity 1s ease;
-        }
-        #_video.on, #_poster.on {
-            opacity: 1;
-        }
-        #_video.off, #_poster.off {
-            opacity: 0;
-        }
-
-        body {
-            overflow: hidden;
-            width: 100%;
-            height: 100%;
-            padding: 0;
-            margin: 0;
-        }
-
-        #debugConsole {
-            width: 98%;
-        }
-    </style>
-</head>
-
-<body>
-<div id="player" style="width:100%;height:100%;position:relative;"></div>
-
-<script>
-    document.body.addEventListener('touchmove', function(event) { event.preventDefault(); }, false);
-
-    var src = window.location.search.substring(1) || 'test';
-
-    function fetchApiData(options) {
-        var apiUrl = options.apiUrl;
-        var streamKey = options.streamKey;
-
-        return fetch(apiUrl + '?src=' + encodeURIComponent(streamKey), {
-            method: 'GET'
-        }).then(function(response) {
-            if (!response.ok) {
-                throw new Error('API request failed with status ' + response.status);
-            }
-
-            return response.json();
-        });
-    }
-
-    function initPlayer() {
-        var config = {
-            container: document.getElementById('player'),
-            playlist:  'http://hls.goodgame.ru/dash/' + src + '/index.mpd',
-            poster:    'http://hls.goodgame.ru/previews/' + src + '.jpg',
-            autoplay:  true,
-            quality:   "540",
-            streamKey: src,
-        };
-
-        fetchApiData({
-                apiUrl: '/api/player',
-                streamKey: config.streamKey
-            }).catch(function(e) {
-                console.warn('PlayerInWindowAdapter API fetch failed:', e);
-                return null;
-            }).then(function(apiData) {
-            if (apiData) {
-                config.apiData = apiData;
-            }
-            new GGPlayer2InWindowAdapter(config);
-        });
-
-    };
-
-    initPlayer();
-
-
-    function loadcssfile(filename){
-        var fileref=document.createElement("link");
-        fileref.setAttribute("rel", "stylesheet");
-        fileref.setAttribute("type", "text/css");
-        fileref.setAttribute("href", filename);
-        document.getElementsByTagName("head")[0].appendChild(fileref);
-    }
-
-    if(document.location.href.indexOf('gg.dev')==-1) {
-        loadcssfile('https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,300,800&subset=latin,cyrillic-ext');
-    }
-
-    //Wrappers:
-    window.BuyPremiumPopup = function() {
-        var _onSuccessCB = function() {};
-        var _onStartTestCB = function() {};
-        var wnd, popup, _channelName, _oldKey;
-
-        var _onLoad = function() {
-            popup = wnd.BuyPremiumPopup();
-            popup.onSuccess(_onSuccessCB);
-            popup.onStartTest(_onStartTestCB);
-            popup.onClose(_onClose);
-            popup.popup(_channelName, _oldKey);
-        };
-
-        var _onClose = function() { wnd.close(); };
-
-        this.onSuccess = function(cb) { _onSuccessCB = cb; };
-        this.onStartTest = function(cb) { _onStartTestCB = cb; };
-
-        this.popup = function(channelName, oldKey) {
-            _channelName = channelName;
-            _oldKey = oldKey;
-
-            wnd = window.open('/payment/buypremium/');
-            wnd.addEventListener('load', _onLoad, false);
-        };
-    };
-
-    window.donatPopup = function() {
-        var wnd, popup, _channelId;
-
-        var _onLoad = function() {
-            popup = wnd.donatPopup();
-            popup.onClose(_onClose);
-            popup.popup(_channelId);
-        };
-
-        var _onClose = function() { wnd.close(); };
-
-        this.popup = function(channelId) {
-            _channelId = channelId;
-
-            wnd = window.open('/payment/buypremium/');
-            wnd.addEventListener('load', _onLoad, false);
-        };
-    }
-
-</script>
-
-<!-- Rating@Mail.ru counter -->
-<script type="text/javascript">
-    var _tmr = window._tmr || (window._tmr = []);
-    _tmr.push({id: "3749895", type: "pageView", start: (new Date()).getTime()});
-    (function (d, w, id) {
-        if (d.getElementById(id)) return;
-        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
-        ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
-        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
-        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
-    })(document, window, "topmailru-code");
-</script><noscript><div style="position:absolute;left:-10000px;">
-    <img src="//top-fwz1.mail.ru/counter?id=3749895;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
-</div></noscript>
-<!-- //Rating@Mail.ru counter -->
-<div id="top100_widget" style="visibility: hidden"></div>
-</body>
-</html>
 
 C:\Users\work>
