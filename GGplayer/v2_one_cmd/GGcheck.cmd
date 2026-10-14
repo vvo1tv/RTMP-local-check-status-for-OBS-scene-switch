@@ -1,17 +1,19 @@
-::CD %~dp0
-::pause
+set i=1
 :checkGG 
 timeout /t 10
 curl -s https://goodgame.ru/vintalin > curlGG.txt 
-::pause
 findstr "https://goodgame.ru/images/ico_tv.png" curlGG.txt || goto live
+goto %i%
+:2
 taskkill /fi "WINDOWTITLE eq LIVE"
 tasklist /fi "WINDOWTITLE eq idle" | find "cmd.exe"
 echo error level = %ERRORLEVEL%
 if ERRORLEVEL 1 start "idle"
+:1
 goto checkGG
 
 :live
+set i=2
 taskkill /fi "WINDOWTITLE eq idle"
 tasklist /fi "WINDOWTITLE eq LIVE" | find "cmd.exe"
 echo error level = %ERRORLEVEL%

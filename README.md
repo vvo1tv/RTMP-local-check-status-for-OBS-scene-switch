@@ -12,3 +12,5 @@ check RTMP status page and run CMD window RTMP_active or RTMP_idle for OBS can s
 [v] разница в выдачи команды curl -s https://goodgame.ru/vintalin 
   -s silent mode - без служебной информации (https://curl.se/docs/manpage.html)
 [v] переключение CMD файлов в зависимости от состяния страниц, организованно через выход из текущего и запуска нового
+...
+OBS scene - https://goodgame.ru/player?178163#autoplay
